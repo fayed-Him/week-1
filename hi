@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MkoriCraft/NewScript/main/Comback!.lua",true))() 
